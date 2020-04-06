@@ -2,7 +2,7 @@
 // // // Tasks styles
 // #############################
 
-import { defaultFont, primaryColor, dangerColor } from "assets/jss/material-dashboard-react.jsx";
+import { defaultFont, primaryColor, dangerColor } from "assets/jss/material-dashboard-react.js";
 
 const tasksStyle = {
   table: {

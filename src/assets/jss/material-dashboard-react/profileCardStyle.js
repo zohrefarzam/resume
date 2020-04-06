@@ -2,7 +2,7 @@
 // // // ProfileCard styles
 // #############################
 
-import { card, boxShadow, grayColor, defaultFont } from "assets/jss/material-dashboard-react.jsx";
+import { card, boxShadow, grayColor, defaultFont } from "assets/jss/material-dashboard-react.js";
 
 const profileCardStyle = {
   card: {

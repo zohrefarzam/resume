@@ -2,7 +2,7 @@
 // // // Dashboard styles
 // #############################
 
-import { successColor } from "assets/jss/material-dashboard-react.jsx";
+import { successColor } from "assets/jss/material-dashboard-react.js";
 
 const dashboardStyle = {
   successText: {

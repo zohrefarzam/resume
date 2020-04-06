@@ -16,9 +16,9 @@ import { withStyles } from "material-ui";
 
 import { Header, Footer, Sidebar } from "components";
 
-import dashboardRoutes from "routes/dashboard.jsx";
+import dashboardRoutes from "routes/dashboard.js";
 
-import appStyle from "assets/jss/material-dashboard-react/appStyle.jsx";
+import appStyle from "assets/jss/material-dashboard-react/appStyle.js";
 
 import image from "assets/img/sidebar-2.jpg";
 import logo from "assets/img/reactlogo.png";
